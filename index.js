@@ -17,7 +17,7 @@ const client = new Client({
 });
 
 // Mantenha-se ativo e faça login no bot
-keepAlive();
+keep_alive();
 client.login(process.env.TOKEN);
 
 // Requisitos
