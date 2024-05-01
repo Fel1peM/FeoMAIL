@@ -11,7 +11,7 @@
 
 // Pacotes necessários
 const { Client } = require("discord.js");
-const keepAlive = require('./server.js');
+const keep_alive = require('./keep_alive.js');
 const client = new Client({
   disableEveryone: true
 });
