@@ -11,13 +11,13 @@
 
 // Pacotes necessários
 const { Client } = require("discord.js");
-const keep_alive = require('./keep_alive.js');
+const keepAlive = require('./server.js');
 const client = new Client({
   disableEveryone: true
 });
 
 // Mantenha-se ativo e faça login no bot
-keep_alive();
+keepAlive();
 client.login(process.env.TOKEN);
 
 // Requisitos
