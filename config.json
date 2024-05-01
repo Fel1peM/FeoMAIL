@@ -1,0 +1,18 @@
+  {
+    "prefix": "feo!",
+    "BotName": "FeoMAIL!",
+
+    "ServerID": "1062985141342969916",
+    "ServerName": "Fe1ipe",
+    "ModeratorRole": "STAFF",
+    "ModMailCategoryName": "MOD MAILS",
+    
+    "EmbedColor": "#ff0037",
+    "CloseEmbedColor": "#ff7171",
+    "OpenEmbedColor": "#c4ffa2",
+    "EmbedFooter": "",
+    
+    "StatusText": "feo!help | FeoMAIL",
+    "StatusType": "IDLE",
+    "StatusURL": "https://www.twitch.tv/fe1iipe"
+}  
